@@ -29,6 +29,8 @@ f(n) = O( g(n) )
 nếu tồn tại các hằng số dương c và n0 sao cho f(n) <= cg(n) với mọi n >= n0"
 
 có thể hiểu f(n) là số lượng các phép tính, ví dụ n*(n-1)/2, còn g(n) chính là độ phức tạp n^2, nói cách khác, 1 thuật toán có n*(n-1)/2 phép tính có độ phức tạp O(n^2)
+
+Cận trên chặt: có thể hiểu, với số phép tính n*(n-1)/2, thì n^4, n^5 cũng có thể là cận trên, còn cận trên chặt chỉ có thể là n^2, do không còn cận nào tăng chậm hơn nữa
   
 ## Hash:
   Cách hạn chế collision với địa chỉ mở (mảng chỉ có 1 giá trị) và tạo dây chuyền (linklist)
