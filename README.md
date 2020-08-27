@@ -7,6 +7,10 @@
   Preorder: In ra theo thứ tự gặp, 
   Postorder: Duyệt hết các node con, sau đó mới duyệt đến nút cha
   
+  cây nhị phân đầy đủ:
+  cây nhị phân hoàn toàn: heap
+  cây nhị phân cân bằng:
+  
 ## Queue:
   Cài đặt Queue bằng linklist vòng và mảng vòng
   
