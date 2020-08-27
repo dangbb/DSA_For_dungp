@@ -22,6 +22,7 @@
   
 ## Complexity:
   Hiểu cách tính độ phức tạp của 1 thuật toán theo bigO, mỗi quan hệ của các đại lượng trong công thức f(n) = O(g(n))
+  
   "Giả sử f(n) và g(n) là các hàm thực không âm của đối số
 nguyên không âm n. Ta nói “f(n) là ô lớn của g(n)” và viết là
 f(n) = O( g(n) )
