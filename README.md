@@ -22,6 +22,10 @@
   
 ## Complexity:
   Hiểu cách tính độ phức tạp của 1 thuật toán theo bigO, mỗi quan hệ của các đại lượng trong công thức f(n) = O(g(n))
+  'Giả sử f(n) và g(n) là các hàm thực không âm của đối số
+nguyên không âm n. Ta nói “f(n) là ô lớn của g(n)” và viết là
+f(n) = O( g(n) )
+nếu tồn tại các hằng số dương c và n0 sao cho f(n) <= cg(n) với mọi n >= n0'
   
 ## Hash:
   Cách hạn chế collision với địa chỉ mở (mảng chỉ có 1 giá trị) và tạo dây chuyền (linklist)
