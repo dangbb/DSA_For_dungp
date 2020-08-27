@@ -35,6 +35,23 @@ Cận trên chặt: có thể hiểu, với số phép tính n*(n-1)/2, thì n^4
 ## Hash:
   Cách hạn chế collision với địa chỉ mở (mảng chỉ có 1 giá trị) và tạo dây chuyền (linklist)
   
+  Thăm dò tuyến tính:
+  pros: duyệt được qua tất cả các vị trí trong mảng
+  cons: dữ liệu hay bị co cụm, tâp trung thành từng đoạn
+  
+  Thăm dò bình phương:
+  pros: tránh được sự tích tụ dữ liệu
+  cons: không cho phép ta tìm đến tất cả các phần tử trong mảng
+  
+  => nếu cỡ mảng là số nguyên tố và mảng chưa đầy 50% thì thêm được
+  
+  
+  Băm kép:
+  hạn chế sự tích tự dữ liệu
+  nếu size của mảng là số nguyên tố, có thể duyệt hết tất cả phần tử trong mảng
+  
+  
+  
 ## Priority Queue:
   Hiểu cách thêm, xóa cây thứ tự bộ phận
   
