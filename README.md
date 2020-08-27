@@ -22,3 +22,13 @@
   
 ## Complexity:
   Hiểu cách tính độ phức tạp của 1 thuật toán theo bigO, mỗi quan hệ của các đại lượng trong công thức f(n) = O(g(n))
+  
+## Hash:
+  Cách hạn chế collision với địa chỉ mở (mảng chỉ có 1 giá trị) và tạo dây chuyền (linklist)
+  
+## Priority Queue:
+  Hiểu cách thêm, xóa cây thứ tự bộ phận
+  
+Ngoài ra yêu cầu đọc thêm về AVL tree, 
+
+Vậy thôi :3
